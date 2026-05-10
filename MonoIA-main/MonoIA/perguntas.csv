@@ -1,0 +1,46 @@
+frase,categoria
+quero ver minha fatura atual,fatura
+quanto está minha fatura,fatura
+fatura do cartão fechou,fatura
+quero pagar cartão,fatura
+ver valor total da fatura,fatura
+fatura em atraso,fatura
+detalhes da fatura,fatura
+baixar fatura em pdf,fatura
+
+qual meu limite disponível,limite
+quanto posso gastar no cartão,limite
+limite do meu cartão aumentou,limite
+reduzir limite do cartão,limite
+limite estourou,limite
+limite atual do cartão,limite
+quero mais limite no cartão,limite
+como aumentar meu limite,limite
+
+cartão foi bloqueado,bloqueio
+meu cartão não funciona,bloqueio
+bloqueio temporário do cartão,bloqueio
+desbloquear cartão urgente,bloqueio
+cartão suspenso,bloqueio
+não consigo usar o cartão,bloqueio
+ativar cartão novamente,bloqueio
+cartão inativo,bloqueio
+
+quantas parcelas restam,parcela
+parcelamento do cartão,parcela
+valor da próxima parcela,parcela
+quero ver minhas parcelas,parcela
+quantas parcelas já paguei,parcela
+parcelas do cartão,parcela
+dividir compra em parcelas,parcela
+simular parcelamento,parcela
+
+recuperar senha do cartão,senha
+senha do cartão esquecida,senha
+não lembro minha senha,senha
+alterar senha agora,senha
+trocar senha do cartão,senha
+senha bloqueada,senha
+criar nova senha,senha
+senha de acesso,senha
+
