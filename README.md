@@ -1,7 +1,6 @@
 # Participantes;
 
-Kathleen Aquino Lima - 2364196 <br>Victor Borges Quintella - 2544963
-João Victor Brandão - 2359197 <br>Lucas Costa - 2361186
+Kathleen Aquino Lima - 2364196 <br>Victor Borges Quintella - 2544963 <br>João Victor Brandão - 2359197 <br>Lucas Costa - 2361186
 
 ---
 
